@@ -27,8 +27,6 @@ Recent public work:
   [EdgeChains](https://github.com/arakoodev/EdgeChains/pull/286),
   [Dokploy](https://github.com/Dokploy/dokploy),
   [Coolify](https://github.com/coollabsio/coolify), and others
-- [`oss-hunter-livefire`](https://github.com/LuckyTurtleLabs/oss-hunter-livefire) —
-  live-fire sandbox fixture for the automated OSS bounty-solving workflow
 
 The heavy machinery stays private; the output is public.
 
